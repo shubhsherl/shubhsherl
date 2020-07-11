@@ -1,16 +1,18 @@
 ### Hi there 👋
 
 <!--
-**shubhsherl/shubhsherl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shubhsherl/shubhsherl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on procrastinat...
+- 🌱 I’m currently learning to live
+- 📫 How to reach me: Search 'shubhsherl' on [Google](https://www.google.com/search?q=shubhsherl) followed by the platform where you want find me. 
+- :computer: Arch Linux, i3, kitty, zsh, vim (kidding :sweat_smile: vs-code)
+- :blue_book: :tv: Suggest me books, movies, series.
+- ⚡ Fun fact: Once a noob, forever a noob.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
+:wq
+
+shutdown 0
+```
